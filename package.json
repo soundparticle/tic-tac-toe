@@ -1,0 +1,35 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "Simple game to practice React.",
+  "dependencies": {
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-scripts": "2.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soundparticle/tic-tac-toe.git"
+  },
+  "author": "Antreo Pukay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soundparticle/tic-tac-toe/issues"
+  },
+  "homepage": "https://github.com/soundparticle/tic-tac-toe#readme",
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
