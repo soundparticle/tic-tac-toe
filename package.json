@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Simple game to practice React.",
   "dependencies": {
-    "eslint": "^5.10.0",
     "npm": "^6.5.0",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
